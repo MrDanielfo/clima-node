@@ -1,0 +1,20 @@
+{
+  "name": "clima-mundo",
+  "version": "1.0.0",
+  "description": "API con Nodejs que permite ver el clima en distintas partes del mundo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "google"
+  ],
+  "author": "Josué Daniel Flores Morales",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.5"
+  }
+}
